@@ -2,11 +2,7 @@ title: Gumil
 description: Miguel Panelo. Android Developer.
 google_analytics: 
 show_downloads: false
-remote_theme: dashingcode/front-cover
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
-  - jekyll-remote-theme
-
-
-theme: jekyll-theme-minimal
