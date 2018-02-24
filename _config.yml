@@ -8,3 +8,5 @@ gems:
   - jekyll-mentions
   - jekyll-remote-theme
 
+
+theme: jekyll-theme-minimal
