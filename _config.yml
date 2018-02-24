@@ -6,3 +6,5 @@ remote_theme: dashingcode/front-cover
 
 gems:
   - jekyll-mentions
+  - jekyll-remote-theme
+
